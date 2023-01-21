@@ -1,6 +1,9 @@
 # Python Snake Game
 Classic simple snake game. It's name is _White Hunter_ 🐍  Made with python ♥
 
+## Run
+python main.py
+
 ## Play and Add New Feautures
 Just run the project and play it. If you add new features to the game, it'll be more fun 😃
 
